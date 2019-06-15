@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d2abac13.chunk.css",
+    "main.js": "/static/js/main.f197789f.chunk.js",
+    "main.js.map": "/static/js/main.f197789f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.d68256cb.chunk.js": "/static/js/2.d68256cb.chunk.js",
+    "static/js/2.d68256cb.chunk.js.map": "/static/js/2.d68256cb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.beb54f249bdb2a0d3cea0dea48deb2d6.js": "/precache-manifest.beb54f249bdb2a0d3cea0dea48deb2d6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d2abac13.chunk.css.map": "/static/css/main.d2abac13.chunk.css.map",
+    "static/media/biryani.gif": "/static/media/biryani.098a1225.gif",
+    "static/media/cover.jpg": "/static/media/cover.18827609.jpg"
+  }
+}
